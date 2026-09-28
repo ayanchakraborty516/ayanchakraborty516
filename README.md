@@ -1,45 +1,46 @@
-# 👋 Hey, I'm Ayan Chakraborty
+<p align="center">
+  <img src="https://github.com/ayanchakraborty516.png" width="160" alt="Ayan Chakraborty"/>
+</p>
+
+<h1 align="center">👋 Hey, I'm Ayan Chakraborty</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real-World+Projects;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%E2%9A%A1;Building+Real-World+Projects+%F0%9F%94%A5;Learning+Something+New+Every+Day+%F0%9F%A7%A0" alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=150&section=header&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ayanchakraborty516">
-    <img src="https://img.shields.io/badge/GitHub-ayanchakraborty516-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-ayanchakraborty516-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ayanchakraborty516&label=Profile%20Views&color=36BCF7&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```javascript
-const ayan = {
-  role: "Full-Stack Developer",
-  stack: "MERN",
-  frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB", "MySQL"],
-  tools: ["Git", "GitHub", "VS Code", "Postman"],
-  currentlyLearning: ["DSA", "Advanced React", "Backend Development"],
-  goal: "Build scalable and impactful web applications"
-};
-```
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-🎓 CSE Student passionate about software development
-💻 Focused on **Full-Stack Web Development**
-⚛️ Building modern applications with **React.js**
-🟢 Developing backend systems with **Node.js & Express.js**
-🗄️ Working with **MongoDB & MySQL**
-🧠 Improving **DSA and problem-solving**
-🚀 Building projects to strengthen my real-world development skills
+🎓 CSE Student
+💻 Full-Stack Developer in progress
+⚛️ React.js enthusiast
+🟢 Node.js & Express.js
+🗄️ MongoDB & MySQL
+🧩 Practicing DSA
+🚀 Building real-world applications
+🎯 Preparing for software development opportunities
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Languages & Frontend
+### 💻 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
@@ -51,7 +52,7 @@ const ayan = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🔧 Tools
+### 🧰 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
@@ -61,98 +62,138 @@ const ayan = {
 
 ## 🚀 Featured Projects
 
-### 🧠 SmartLearn
+<table>
+<tr>
 
-A smart education platform designed around personalized and adaptive learning.
+<td width="33%" align="center">
 
-**Tech:** React.js • Node.js • MongoDB • AI
+### 🌐 Portfolio
 
----
+<a href="https://github.com/ayanchakraborty516/Portfolio">
+  <img src="https://img.shields.io/badge/View%20Repository-Portfolio-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### 🛒 MERN E-Commerce
+Personal developer portfolio showcasing my skills, projects, education and development journey.
 
-A full-stack e-commerce application featuring authentication, products, cart functionality and REST APIs.
+**React • JavaScript • Bootstrap • CSS**
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+</td>
 
----
+<td width="33%" align="center">
 
-### 🌐 Personal Portfolio
+### 🏫 College Project
 
-A responsive developer portfolio showcasing my skills, projects and development journey.
+<a href="https://github.com/ayanchakraborty516/collegeProject">
+  <img src="https://img.shields.io/badge/View%20Repository-College%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
-**Tech:** React.js • JavaScript • Bootstrap
+A college website project built to practice responsive frontend development and modern UI design.
 
----
+**HTML • CSS • JavaScript • Bootstrap**
 
-## 📊 GitHub Statistics
+</td>
+
+<td width="33%" align="center">
+
+### 🏡 Roamora
+
+<a href="https://github.com/ayanchakraborty516/roamora-fullstack">
+  <img src="https://img.shields.io/badge/View%20Repository-Roamora-181717?style=for-the-badge&logo=github"/>
+</a>
+
+A full-stack travel and accommodation platform inspired by real-world applications.
+
+**React • Node.js • Express • MongoDB**
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanchakraborty516&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <a href="https://github.com/ayanchakraborty516?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanchakraborty516&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanchakraborty516&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 💻 Most Used Languages
+## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanchakraborty516&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanchakraborty516&theme=github_dark"
+    width="48%"
+    alt="Languages by Repository"
+  />
 
----
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayanchakraborty516&theme=github_dark"
+    width="48%"
+    alt="Languages by Commits"
+  />
+</p>
 
 ## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+</p>
+
+---
+
+## 💫 My Developer Journey
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=C+%2F+C%2B%2B+%E2%86%92+JavaScript;JavaScript+%E2%86%92+React.js;React.js+%E2%86%92+Node.js;Node.js+%E2%86%92+Express.js;Express.js+%E2%86%92+MongoDB;MongoDB+%E2%86%92+Full-Stack+Developer+%F0%9F%9A%80" alt="Developer journey"/>
 </p>
 
 ---
 
 ## 🎯 Currently Learning
 
-```text
-⚛️ Advanced React
-🟢 Node.js & Express.js
-🔐 Authentication & Authorization
-🧩 Data Structures & Algorithms
-🗄️ Database Design
-☁️ Deployment & Cloud
-🏗️ Scalable Full-Stack Architecture
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Advanced"/>
+
+<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Learning"/>
+
+<img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-badge" alt="MongoDB Learning"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-Building-0078D4?style=for-the-badge" alt="REST APIs Building"/>
+
+<img src="https://img.shields.io/badge/DSA-Practice-FF6F00?style=for-the-badge" alt="DSA Practice"/>
+
+</p>
+
+## 📈 Coding Activity
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayanchakraborty516&theme=github_dark"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+## 🌱 My Goal
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat;Turning+Ideas+Into+Real+Applications+%F0%9F%9A%80;Becoming+a+Better+Developer+Every+Day+%F0%9F%94%A5" alt="Goal animation"/>
+</p>
 
 ---
 
-## 📈 My Developer Journey
-
-```text
-C / C++
-   ↓
-JavaScript
-   ↓
-HTML + CSS + Bootstrap
-   ↓
-React.js
-   ↓
-Node.js + Express.js
-   ↓
-MongoDB + REST APIs
-   ↓
-Full-Stack Development 🚀
-```
-
----
-
-## 🌱 What I'm Working Toward
-
-> **Learning → Building → Improving → Becoming a better developer**
-
-I'm continuously working on projects that help me understand how real-world software is designed, developed and deployed.
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
 
@@ -169,7 +210,7 @@ I'm continuously working on projects that help me understand how real-world soft
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayanchakraborty516&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:36BCF7&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
