@@ -275,7 +275,7 @@ const ayan = {
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanchakraborty516&bg_color=0D1117&color=00D9FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph"/>
+  <img src="https://github-activity-graph.vercel.app/graph?username=ayanchakraborty516&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF" width="98%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -286,9 +286,9 @@ const ayan = {
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayanchakraborty516/ayanchakraborty516/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayanchakraborty516/ayanchakraborty516/output/github-contribution-grid-snake.svg"/>
-    <img alt="Animated GitHub contribution snake" width="100%" src="https://raw.githubusercontent.com/ayanchakraborty516/ayanchakraborty516/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayanchakraborty516/ayanchakraborty516/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayanchakraborty516/ayanchakraborty516/output/github-snake.svg"/>
+    <img alt="Animated GitHub contribution snake" width="100%" src="https://raw.githubusercontent.com/ayanchakraborty516/ayanchakraborty516/output/github-snake.svg"/>
   </picture>
 
 </div>
