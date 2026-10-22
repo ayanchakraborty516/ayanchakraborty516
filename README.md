@@ -27,11 +27,27 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Animated Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,html,css,react,nodejs,express,mongodb,tailwind,git,github,vercel,vite&perline=7" alt="Technology icons" />
+### Languages
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript animated logo" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java animated logo" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5 animated logo" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3 animated logo" width="65" height="65" />
+
+### Frontend & Backend
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React animated logo" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js animated logo" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express animated logo" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind CSS animated logo" width="65" height="65" />
+
+### Database & Tools
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB animated logo" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git animated logo" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub animated logo" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=vercel,vite" alt="Vercel and Vite logos" height="65" />
 
 </div>
 
