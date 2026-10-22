@@ -27,24 +27,23 @@
 
 ---
 
-## ⚡ Animated Tech Stack
+### Languages
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+<img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" alt="HTML" />
+<img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" height="65" alt="CSS" />
 
-<div align="center">
+### Frontend & Backend
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" alt="Node.js" />
+<img src="https://techstack-generator.vercel.app/express-icon.svg" width="65" height="65" alt="Express" />
+<img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="65" height="65" alt="Tailwind CSS" />
 
-### Animated logos
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript animated logo" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React animated logo" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js animated logo" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB animated logo" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git animated logo" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub animated logo" width="65" height="65" />
-
-### More technologies
-<img src="https://skillicons.dev/icons?i=java,html,css,express,tailwind,vercel,vite&perline=7" alt="Java, HTML, CSS, Express, Tailwind CSS, Vercel and Vite logos" />
-
-</div>
-
-> Note: animated logos are provided by an external service, so a particular logo can occasionally fail to load. The remaining skill icons use Skill Icons as a reliable static fallback.
+### Database & Tools
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" alt="MongoDB" />
+<img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" alt="Git" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=vercel,vite" alt="Vercel and Vite" />
 
 ---
 
