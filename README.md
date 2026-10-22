@@ -29,30 +29,22 @@
 
 ## ⚡ Tech Stack
 
+> Consistent skill icons from one source to avoid broken image links. These are static icons; GitHub README images cannot run custom JavaScript animations.
+
 ### Languages
 <p>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="Animated JavaScript logo" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" alt="Animated Java logo" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="60" height="60" alt="Animated HTML logo" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="60" height="60" alt="Animated CSS logo" />
+  <img src="https://skillicons.dev/icons?i=javascript,java,html,css" alt="JavaScript, Java, HTML, and CSS" />
 </p>
 
 ### Frontend & Backend
 <p>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="Animated React logo" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="60" height="60" alt="Animated Node.js logo" />
-  <img src="https://skillicons.dev/icons?i=express,tailwind,vite" height="60" alt="Express, Tailwind CSS, and Vite logos" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite" alt="React, Node.js, Express, Tailwind CSS, and Vite" />
 </p>
 
 ### Database & Tools
 <p>
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="60" height="60" alt="Animated MongoDB logo" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="60" height="60" alt="Animated Git logo" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="Animated GitHub logo" />
-  <img src="https://skillicons.dev/icons?i=vscode,vercel" height="60" alt="VS Code and Vercel logos" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel" alt="MongoDB, Git, GitHub, VS Code, and Vercel" />
 </p>
-
-> Some skill logos are animated images; the remaining icons use a more dependable icon service as a fallback.
 
 ---
 
