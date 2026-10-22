@@ -1,82 +1,102 @@
-<h1 align="center">Hi there, I'm Ayan Chakraborty 👋</h1>
-<h3 align="center">Full-Stack Developer (MERN) | B.Tech CSE '28 | Java & DSA Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://ayan-chakraborty.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ayan--chakraborty.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=210&section=header&text=Ayan%20Chakraborty&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Animated header" />
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+useful+things+for+the+web;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Learning%2C+building%2C+and+shipping+projects;Open+to+Software+Development+Internships" alt="Typing animation" /></a>
+
+<p>
+  <a href="https://ayan-chakraborty.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ayan-chakraborty-3367b4389/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayanc8186@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ayanchakraborty516"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=ayanchakraborty516&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 👋 About Me
 
-- 🎓 **Education:** Pursuing a B.Tech in Computer Science & Engineering at **Swami Vivekananda Institute of Science and Technology (SVIST)** (Class of 2028).
-- 💻 **What I Do:** Building responsive, scalable web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js) and strengthening core problem-solving with **Data Structures & Algorithms in Java**.
-- 🔭 **Currently Working On:** Developing **Flyora** (a full-stack flight booking platform) and refining **OrbitOps** and **TaskFlow**.
-- 🎯 **Goals:** Looking for **Software Development Internships** and collaborative open-source projects where I can build impactful products.
-- 🌐 **Portfolio:** [ayan-chakraborty.vercel.app](https://ayan-chakraborty.vercel.app/)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Frontend & Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Database & Deployment**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Swami Vivekananda Institute of Science and Technology** — expected 2028.
+- 💻 Building full-stack web applications with **JavaScript, React, Node.js, Express, and MongoDB**.
+- 🧩 Practicing problem-solving and **Data Structures & Algorithms in Java**.
+- 🛠️ Working on **OrbitOps**, **TaskFlow**, and **Flyora** (in progress).
+- 🎯 Interested in **software development internships**, collaborative projects, and learning by building.
 
 ---
 
-### 📂 Featured Projects
+## ⚙️ Tech Stack
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **OrbitOps** | Modern web interface redesign focused on clean UI/UX architecture, responsive layouts, and streamlined operational workflows. | `React` `CSS3` `JavaScript` | [Repo](https://github.com/ayanchakraborty516) |
-| **TaskFlow** | Full-stack task and productivity management application with intuitive state tracking and workflow organization. | `MongoDB` `Express` `React` `Node.js` | [Repo](https://github.com/ayanchakraborty516) |
-| **Flyora** *(In Progress)* | End-to-end flight booking platform featuring search filtering, dynamic scheduling, and seamless booking flows. | `MERN Stack` `REST API` | *Coming Soon* |
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=js,java,html,css,react,nodejs,express,mongodb,tailwind,git,github,vercel,vite&perline=7" alt="Technology icons" />
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayanchakraborty516&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ayan's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanchakraborty516&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayanchakraborty516&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayanchakraborty516&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">OrbitOps</h3>
+      <p align="center">A full-stack operations dashboard with a refined, responsive product interface.</p>
+      <p align="center"><a href="https://github.com/ayanchakraborty516/Orbitops"><strong>Explore repository ↗</strong></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">TaskFlow</h3>
+      <p align="center">A MERN task and productivity app focused on organizing tasks and workflows.</p>
+      <p align="center"><a href="https://github.com/ayanchakraborty516/taskflow"><strong>Explore repository ↗</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Personal Portfolio</h3>
+      <p align="center">My developer portfolio, projects, skills, and professional profile.</p>
+      <p align="center"><a href="https://ayan-chakraborty.vercel.app/"><strong>Live portfolio ↗</strong></a> · <a href="https://github.com/ayanchakraborty516/Portfolio">Source code</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Flyora · In progress</h3>
+      <p align="center">A flight-booking platform concept with flight search and booking workflows.</p>
+      <p align="center"><em>Currently in development</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayanchakraborty516&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanchakraborty516&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most used languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ayanchakraborty516&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayanchakraborty516/ayanchakraborty516/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayanchakraborty516/ayanchakraborty516/output/github-snake.svg" />
+    <img alt="Animated snake eating GitHub contribution graph" src="https://raw.githubusercontent.com/ayanchakraborty516/ayanchakraborty516/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for stopping by!
+
+*Always learning. Always building.*
+
+<a href="https://github.com/ayanchakraborty516?tab=repositories">Explore my repositories →</a>
+
+</div>
