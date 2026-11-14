@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ayan Chakraborty — Full-stack developer</title>
+  <desc id="desc">A navy banner with teal and lavender orbital lines, a softly pulsing monogram, and the words Interfaces, APIs, useful products. Motion pauses when reduced motion is preferred.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1728"/><stop offset=".58" stop-color="#101828"/><stop offset="1" stop-color="#1A1831"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="60" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#66E3CB"/><stop offset=".55" stop-color="#80C5F3"/><stop offset="1" stop-color="#BBA9FF"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="765" y1="65" x2="1105" y2="355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#66E3CB"/><stop offset="1" stop-color="#AD97F4"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#60CAB9" stop-opacity=".13"/><stop offset="1" stop-color="#60CAB9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#AFBAD4" opacity=".09"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="418" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .orbit { transform-origin: 940px 210px; animation: orbit 34s linear infinite; }
+    .orbit-back { transform-origin: 940px 210px; animation: orbit 48s linear infinite reverse; }
+    .pulse { transform-origin: 940px 210px; animation: breathe 5s ease-in-out infinite; }
+    .signal { animation: signal 4s ease-in-out infinite; }
+    .trace { stroke-dasharray: 95 985; animation: trace 12s linear infinite; }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes breathe { 0%,100% { opacity: .35; transform: scale(.96); } 50% { opacity: .8; transform: scale(1.04); } }
+    @keyframes signal { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+    @keyframes trace { to { stroke-dashoffset: -1080; } }
+    @media (prefers-reduced-motion: reduce) { .orbit, .orbit-back, .pulse, .signal, .trace { animation: none; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="url(#surface)"/>
+    <rect width="1200" height="420" fill="url(#dots)"/>
+    <circle cx="940" cy="210" r="290" fill="url(#glow)"/>
+    <path d="M60 1H1140" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M60 1H1140" class="trace" stroke="#E4FFF7" stroke-width="3"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <rect x="60" y="55" width="240" height="34" rx="17" fill="#122C34" stroke="#28544F"/>
+      <circle class="signal" cx="80" cy="72" r="4" fill="#79E8D1"/>
+      <text x="95" y="77" fill="#9CEBD8" font-size="12" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER</text>
+      <text x="56" y="173" fill="#F3F6FC" font-size="74" font-weight="750" letter-spacing="-2.5">Ayan</text>
+      <text x="56" y="251" fill="#F3F6FC" font-size="74" font-weight="750" letter-spacing="-2.5">Chakraborty<tspan fill="#79E8D1">.</tspan></text>
+      <text x="60" y="300" fill="#BDCADD" font-size="21">Interfaces. APIs. Useful products.</text>
+      <path d="M60 338H104" stroke="#66E3CB" stroke-width="3" stroke-linecap="round"/>
+      <text x="119" y="343" fill="#8FA5C0" font-size="13" letter-spacing="1.5">BUILD · LEARN · IMPROVE</text>
+    </g>
+    <g stroke="url(#ring)">
+      <circle cx="940" cy="210" r="154" opacity=".13"/>
+      <circle cx="940" cy="210" r="114" opacity=".14" stroke-dasharray="3 10"/>
+      <circle class="pulse" cx="940" cy="210" r="83" stroke-width="1.5"/>
+      <g class="orbit">
+        <ellipse cx="940" cy="210" rx="174" ry="84" transform="rotate(-32 940 210)" opacity=".46"/>
+        <circle cx="1088" cy="118" r="6" fill="#75E4CF" stroke="#10202A" stroke-width="4"/>
+        <circle cx="792" cy="302" r="3" fill="#91BDED" stroke="none"/>
+      </g>
+      <g class="orbit-back">
+        <ellipse cx="940" cy="210" rx="174" ry="84" transform="rotate(35 940 210)" opacity=".35"/>
+        <circle cx="1083" cy="310" r="5" fill="#BFA8FF" stroke="#1A1831" stroke-width="3"/>
+      </g>
+    </g>
+    <rect x="883" y="153" width="114" height="114" rx="28" fill="#121E30" stroke="#40536D"/>
+    <path d="M904 153H976" stroke="url(#accent)" stroke-width="2"/>
+    <text x="940" y="225" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-weight="600" font-size="44" letter-spacing="-2" fill="#EBF5FF">AC</text>
+    <g font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="12" fill="#C5D2E5">
+      <rect x="779" y="47" width="97" height="30" rx="15" fill="#111E30" stroke="#304258"/>
+      <text x="827" y="67" text-anchor="middle">&lt;React /&gt;</text>
+      <rect x="1016" y="340" width="92" height="30" rx="15" fill="#181E34" stroke="#3B3B59"/>
+      <text x="1062" y="360" text-anchor="middle">{ APIs }</text>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="418.5" rx="24" stroke="#304058" stroke-width="1.5"/>
+</svg>
