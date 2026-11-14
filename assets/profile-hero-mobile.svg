@@ -8,13 +8,15 @@
     <clipPath id="frame"><rect x="1" y="1" width="598" height="408" rx="24"/></clipPath>
   </defs>
   <style>
-    .orbit { transform-origin: 508px 81px; animation: orbit 22s linear infinite; }
-    .signal { animation: signal 4s ease-in-out infinite; }
-    .trace { stroke-dasharray: 75 449; animation: trace 10s linear infinite; }
+    .orbit { transform-origin: 508px 81px; animation: orbit 15s linear infinite; }
+    .signal { animation: signal 3s ease-in-out infinite; }
+    .trace { stroke-dasharray: 75 449; animation: trace 7s linear infinite; }
+    .monogram { animation: float 4s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
     @keyframes orbit { to { transform: rotate(360deg); } }
     @keyframes signal { 0%,100% { opacity: .4; } 50% { opacity: 1; } }
     @keyframes trace { to { stroke-dashoffset: -524; } }
-    @media (prefers-reduced-motion: reduce) { .orbit, .signal, .trace { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .orbit, .signal, .trace, .monogram { animation: none; } }
   </style>
   <g clip-path="url(#frame)">
     <rect width="600" height="410" fill="url(#surface)"/>
@@ -22,7 +24,7 @@
     <path d="M38 1H562" stroke="url(#accent)" stroke-width="3"/>
     <path d="M38 1H562" stroke="#DEFFF6" stroke-width="3" class="trace"/>
     <g class="orbit"><circle cx="508" cy="81" r="43" stroke="#4D6584" opacity=".55"/><circle cx="551" cy="81" r="4" fill="#79E8D1"/></g>
-    <text x="508" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#D4E2F7">AC</text>
+    <text class="monogram" x="508" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#D4E2F7">AC</text>
     <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
       <rect x="38" y="55" width="270" height="38" rx="19" fill="#122C34" stroke="#28544F"/>
       <circle class="signal" cx="58" cy="74" r="4" fill="#79E8D1"/>

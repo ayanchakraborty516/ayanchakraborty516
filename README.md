@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/typing-intro.svg" width="440" height="64" alt="Building React apps. Connecting Node.js APIs. Creating useful products.">
+</p>
+
+<p align="center">
   <a href="#user-content-selected-work">Selected work</a> &nbsp;·&nbsp;
   <a href="#user-content-toolkit">Toolkit</a> &nbsp;·&nbsp;
   <a href="#user-content-activity">Activity</a> &nbsp;·&nbsp;
@@ -62,42 +66,60 @@ I'm **Ayan**, a full-stack developer building web applications with the **MERN s
 
 <p>Also exploring the foundations through <a href="https://github.com/ayanchakraborty516/collegeProject">college website development ↗</a>.</p>
 
+<p align="center"><img src="assets/animated-divider.svg" width="100%" height="18" alt=""></p>
+
 ## Toolkit
 
-**Frontend**
+Tools I use across projects and coursework.
+
+### Languages
 
 <p>
-  <img src="assets/skills/javascript.gif" width="56" height="56" alt="JavaScript" title="JavaScript">
-  <img src="assets/skills/react.gif" width="56" height="56" alt="React" title="React">
-  <img src="assets/skills/html5.gif" width="56" height="56" alt="HTML5" title="HTML5">
-  <img src="assets/skills/css3.gif" width="56" height="56" alt="CSS3" title="CSS3">
-  <img src="assets/skills/tailwind.gif" width="56" height="56" alt="Tailwind CSS" title="Tailwind CSS">
-  <img src="assets/skills/vite.gif" width="56" height="56" alt="Vite" title="Vite">
+  <img src="assets/skills/javascript.gif" width="80" height="80" alt="JavaScript" title="JavaScript">
+  <img src="assets/skills/java.gif" width="80" height="80" alt="Java" title="Java">
+  <img src="assets/skills/python.gif" width="80" height="80" alt="Python" title="Python">
 </p>
 
-JavaScript · React · HTML · CSS · Tailwind CSS · Vite
+JavaScript · Java · Python
 
-**Backend & data**
+### Frontend
 
 <p>
-  <img src="assets/skills/nodejs.gif" width="56" height="56" alt="Node.js" title="Node.js">
-  <img src="assets/skills/express.gif" width="56" height="56" alt="Express" title="Express">
-  <img src="assets/skills/mongodb.gif" width="56" height="56" alt="MongoDB" title="MongoDB">
+  <img src="assets/skills/react.gif" width="80" height="80" alt="React" title="React">
+  <img src="assets/skills/html5.gif" width="80" height="80" alt="HTML5" title="HTML5">
+  <img src="assets/skills/css3.gif" width="80" height="80" alt="CSS3" title="CSS3">
+  <img src="assets/skills/tailwind.gif" width="80" height="80" alt="Tailwind CSS" title="Tailwind CSS">
+  <img src="assets/skills/sass.gif" width="80" height="80" alt="Sass" title="Sass">
+  <img src="assets/skills/vite.gif" width="80" height="80" alt="Vite" title="Vite">
 </p>
 
-Node.js · Express · MongoDB · REST APIs · Socket.IO
+React · HTML5 · CSS3 · Tailwind CSS · Sass · Vite
 
-**Development & deployment**
+### Backend & databases
 
 <p>
-  <img src="assets/skills/git.gif" width="56" height="56" alt="Git" title="Git">
-  <img src="assets/skills/github.gif" width="56" height="56" alt="GitHub" title="GitHub">
-  <img src="assets/skills/postman.gif" width="56" height="56" alt="Postman" title="Postman">
-  <img src="assets/skills/vercel.gif" width="56" height="56" alt="Vercel" title="Vercel">
-  <img src="assets/skills/render.gif" width="56" height="56" alt="Render" title="Render">
+  <img src="assets/skills/nodejs.gif" width="80" height="80" alt="Node.js" title="Node.js">
+  <img src="assets/skills/express.gif" width="80" height="80" alt="Express" title="Express">
+  <img src="assets/skills/mongodb.gif" width="80" height="80" alt="MongoDB" title="MongoDB">
+  <img src="assets/skills/postgresql.gif" width="80" height="80" alt="PostgreSQL" title="PostgreSQL">
 </p>
 
-Git · GitHub · Postman · Vercel · Render
+Node.js · Express · MongoDB · PostgreSQL
+
+### Development & deployment
+
+<p>
+  <img src="assets/skills/git.gif" width="80" height="80" alt="Git" title="Git">
+  <img src="assets/skills/github.gif" width="80" height="80" alt="GitHub" title="GitHub">
+  <img src="assets/skills/vscode.gif" width="80" height="80" alt="VS Code" title="VS Code">
+  <img src="assets/skills/postman.gif" width="80" height="80" alt="Postman" title="Postman">
+  <img src="assets/skills/vercel.gif" width="80" height="80" alt="Vercel" title="Vercel">
+  <img src="assets/skills/render.gif" width="80" height="80" alt="Render" title="Render">
+</p>
+
+Git · GitHub · VS Code · Postman · Vercel · Render
+
+**Also working with:** REST APIs · Socket.IO · GitHub Actions
 
 ## Activity
 
@@ -109,7 +131,7 @@ Git · GitHub · Postman · Vercel · Render
 
 <p align="center"><sub>Contribution animation updated daily with <a href="https://github.com/ayanchakraborty516/ayanchakraborty516/actions/workflows/snake.yml">GitHub Actions</a>.</sub></p>
 
----
+<p align="center"><img src="assets/animated-divider.svg" width="100%" height="18" alt=""></p>
 
 <p align="center">
   <b>Explore the work. Follow the progress.</b><br>
@@ -117,6 +139,7 @@ Git · GitHub · Postman · Vercel · Render
   <a href="https://github.com/ayanchakraborty516">Find me on GitHub</a>
 </p>
 
-<!-- The hero SVGs and animated skill icons are hosted in this repository.
+<!-- The hero, typing intro, dividers, and all 19 skill-logo animations are hosted in this repository.
+     Custom SVG animations respect prefers-reduced-motion; the GIFs use GitHub's native animation controls.
      The contribution snake is maintained by .github/workflows/snake.yml.
      Keep project descriptions and toolkit entries aligned with public work. -->

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="18" viewBox="0 0 1200 18" fill="none" role="img" aria-label="Decorative animated divider">
+<defs><linearGradient id="line" x1="0" x2="1200" gradientUnits="userSpaceOnUse"><stop stop-color="#66E3CB" stop-opacity="0"/><stop offset=".3" stop-color="#66E3CB"/><stop offset=".7" stop-color="#BBA9FF"/><stop offset="1" stop-color="#BBA9FF" stop-opacity="0"/></linearGradient></defs>
+<style>
+  .flow { stroke-dasharray:80 1120; animation:flow 7s linear infinite; }
+  .reverse { stroke-dasharray:45 1155; animation:flow 10s -4s linear infinite reverse; }
+  @keyframes flow { to { stroke-dashoffset:-1200; } }
+  @media (prefers-reduced-motion:reduce) { .flow, .reverse { animation:none; } }
+</style>
+<path d="M0 9H1200" stroke="url(#line)" stroke-width="1" opacity=".4"/>
+<path d="M0 9H1200" stroke="#66E3CB" stroke-width="2" stroke-linecap="round" class="flow"/>
+<path d="M0 9H1200" stroke="#BBA9FF" stroke-width="2" stroke-linecap="round" class="reverse"/>
+</svg>
