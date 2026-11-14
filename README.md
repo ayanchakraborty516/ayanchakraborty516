@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="#activity">Activity</a> &nbsp;·&nbsp;
+  <a href="#user-content-selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#user-content-toolkit">Toolkit</a> &nbsp;·&nbsp;
+  <a href="#user-content-activity">Activity</a> &nbsp;·&nbsp;
   <a href="https://github.com/ayanchakraborty516?tab=repositories">All repositories ↗</a>
 </p>
 
